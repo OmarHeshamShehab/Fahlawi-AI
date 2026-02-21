@@ -1,0 +1,65 @@
+# =========================
+# Python Cache
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# =========================
+# Virtual Environments
+# =========================
+.env
+.venv
+venv/
+env/
+torch210/
+
+# =========================
+# Generated Media Files
+# =========================
+#Generated_Ads/
+#*.mp4
+#*.wav
+#*.mp3
+
+# Specifically from your project
+raw_voice.mp3
+polished_voice.wav
+
+# =========================
+# Images (optional)
+# Ignore if they are only test/demo images
+# Remove this line if you want to keep Images in repo
+# =========================
+#Images/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# MoviePy Temp Files
+# =========================
+*.TEMP_MPY_wvf_snd.mp3
+*.TEMP_MPY_wvf.mp4
+
+# =========================
+# Torch Model Files (future-proof)
+# =========================
+*.pt
+*.pth
+*.ckpt

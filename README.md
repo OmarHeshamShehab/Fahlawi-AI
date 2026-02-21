@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![CUDA](https://img.shields.io/badge/CUDA-Enabled-green)
 ![Gradio](https://img.shields.io/badge/UI-Gradio-orange)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 ![Status](https://img.shields.io/badge/Production-Ready-brightgreen)
 
 > Automated Egyptian Marketing Ad Production Engine\
@@ -164,13 +163,6 @@ CUDA-accelerated peak normalization using PyTorch.
 -   REST API version
 
 ------------------------------------------------------------------------
-
-# 📜 License
-
-MIT License
-
-------------------------------------------------------------------------
-
 # 💡 Fahlawi AI Multi-Pro
 
 Drag. Type. Generate. Publish.
